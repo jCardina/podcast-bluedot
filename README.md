@@ -1,4 +1,4 @@
 # podcast-bluedot
  Podcast landing page
 
- http://proyecto-podcast-bluedot.atwebpages.com
+ (http://proyecto-podcast-bluedot.atwebpages.com)
